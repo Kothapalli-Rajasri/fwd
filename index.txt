@@ -1,4 +1,8 @@
 this is home page
 new line is added
 hey  rajaaaa...
+<<<<<<< HEAD
 sri...
+=======
+hii rajaaa
+>>>>>>> a7ad26cbd13e417e08d9cd16da01a0d078783ec0
